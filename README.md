@@ -77,3 +77,8 @@ On the other hand, complex models like LightGBM, Extra Trees (ET), and Random Fo
 Models like Dummy Regressor, Elastic Net, and Orthogonal Matching Pursuit (OMP) exhibited high error rates, making them impractical for precise forecasting.
 
 To conclude, simple models are more effective in predicting the prices of cryptocurrencies. They also offer a balance of computational efficiency and high accuracy.
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
